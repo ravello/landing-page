@@ -1,0 +1,1 @@
+This project is a web landing page that is written in HTML, CSS, and makes use of the flex box.
